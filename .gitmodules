@@ -1,0 +1,3 @@
+[submodule "snippets"]
+	path = snippets
+	url = git@github-hermo:hermo/snipmate-snippets.git
